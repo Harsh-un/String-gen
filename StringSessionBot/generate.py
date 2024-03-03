@@ -23,7 +23,7 @@ from telethon.errors import (
 )
 
 ERROR_MESSAGE = "Oops! An exception occurred! \n\n**Error** : {} " \
-            "\n\nPlease forward this to @Legend_K_Userbot if this message doesn't contain any " \
+            "\n\nPlease forward this to @un_bots if this message doesn't contain any " \
             "sensitive information and for your information : **These kinda error logs are not stored in our database!**"
 
 
