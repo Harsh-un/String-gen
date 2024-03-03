@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/Itztonystark/STRING-GENERATE",
+  "repository": "https://github.com/harsh-un/string-gen",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
