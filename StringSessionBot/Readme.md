@@ -1,1 +1,1 @@
-Dont try to missuse this bot else this bot Automatically complain to [LegendBoy](https://t.me/LegendBot_XD)
+Dont try to missuse this bot else this bot Automatically complain to [UN OWNER](https://t.me/harsh_un)
